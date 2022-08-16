@@ -46,10 +46,8 @@ font-weight: 500;
 button:hover{
     background-color: #fff;
 }
-.ipsum-text{
-    margin-top:10px ;
-}
-.ipsum-text button {
+
+.copy-btn{
     margin: 20px 0;
     width: 200px;
     padding: 5px 0;
@@ -57,4 +55,12 @@ button:hover{
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
+}
+.ipsum-text{
+    margin-top:10px ;
+}
+.ipsum-text p{
+    text-align: justify;
+    max-width:700px;
+    margin: 8px auto;
 }
